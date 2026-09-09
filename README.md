@@ -6,6 +6,7 @@
 
 **Basic English se Confident Communication tak | English + Hinglish | Practice-Based Learning**
 
+![Category](https://img.shields.io/badge/Category-BOOKS-blue?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Course-BCA-blue?style=for-the-badge)
 ![Credits](https://img.shields.io/badge/Credits-4-orange?style=for-the-badge)
 ![Units](https://img.shields.io/badge/Units-14-purple?style=for-the-badge)
